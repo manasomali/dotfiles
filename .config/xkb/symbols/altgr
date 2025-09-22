@@ -1,0 +1,8 @@
+partial alphanumeric_keys
+xkb_symbols "altgr" {
+    key <AB03> {
+        type= "FOUR_LEVEL_SEMIALPHABETIC",
+        symbols[Group1]= [ c, C, ccedilla, Ccedilla ]
+    };
+};
+
