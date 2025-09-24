@@ -1,0 +1,6 @@
+[terminal]
+vt = 1
+
+[default_session]
+command = "tuigreet --remember --cmd /usr/local/bin/start-sway.sh"
+user = "greeter"
